@@ -1,0 +1,47 @@
+.top-bar h3{
+    color: #0000ff;
+    font-weight: 300;
+}
+.slider images/
+main-slider img{
+    height: 70vh;
+}
+main .slider
+ img#742346
+/* .program section stylings */
+.program img{
+    height: 300px;
+    opacity: 4;
+}
+.program .card :hover img{
+    opacity: 1;
+
+}
+....program.card  :hover.card body{
+    background-color: #0000ff;
+    color: #0000ff;
+    transition: .7s;
+}
+/* pricing styling */
+.pricing 
+padding-top: 100px;
+padding-bottom: 100px;
+background: linear-gradient(45deg, #48cae401, #48cae4, #48CAE401), url('./images/2.jpg');
+background-position: center recomend
+background-size: contain;
+background-repeat: no-repeat
+background-attachment: fixed;
+.btn-custom
+background- color #9d6ab9 ;
+color:
+/* pricing section stylings */
+.pricing{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(45deg, #48cae401, #48cae4, #48CAE401), url('./images/2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
